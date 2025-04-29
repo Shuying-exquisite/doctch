@@ -20,7 +20,9 @@
 在centos安装：sudo yum install jq
 
 ### 🧪2.下载并运行脚本
+
 chmod +x doctch.sh
+
 sudo ./doctch.sh start
 
 ## 🛡️ 安全性说明
