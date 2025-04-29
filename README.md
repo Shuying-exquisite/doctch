@@ -16,16 +16,20 @@
 
 确保已安装：jq
 
-在 Debian/Ubuntu 安装：sudo apt install jq
-
-在centos安装：sudo yum install jq
-
+在 Debian/Ubuntu 安装：
+```bash
+sudo apt install jq
+```
+在centos安装：
+```bash
+sudo yum install jq
+```
 ### 🧪2.下载并运行脚本
-
+```bash
 chmod +x doctch.sh
 
 sudo ./doctch.sh start
-
+```
 ## 🛡️ 安全性说明
 
 - 脚本不会上传任何数据
