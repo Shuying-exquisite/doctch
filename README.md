@@ -16,6 +16,7 @@
 确保已安装：jq
 
 在 Debian/Ubuntu 安装：sudo apt install jq
+
 在centos安装：sudo yum install jq
 
 ### 🧪2.下载并运行脚本
