@@ -1,9 +1,8 @@
-# doctch
+# Doctch
 
 项目主要目的：一个轻量级、跨平台的 Docker 镜像加速拉取脚本
----
+
 项目灵感来源：[Cp0204](https://github.com/Cp0204)
----
 ## ✨ 特性
 
 - ✅ 一键设置 Docker 镜像加速器
