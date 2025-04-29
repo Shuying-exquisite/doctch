@@ -1,6 +1,6 @@
 # doctch
-项目灵感来源[Cp0204](https://github.com/Cp0204)
-一个轻量级、跨平台的 Docker 镜像加速拉取脚本，由 Shuyingyang 编写。  
+项目主要目的：一个轻量级、跨平台的 Docker 镜像加速拉取脚本，由 Shuyingyang 编写。
+项目灵感来源：[Cp0204](https://github.com/Cp0204)
 ---
 ## ✨ 特性
 
